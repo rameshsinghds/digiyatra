@@ -1,5 +1,5 @@
-langchain-chroma
 langchain
+langchain-chroma
 langchain-groq
 flashrank
 streamlit

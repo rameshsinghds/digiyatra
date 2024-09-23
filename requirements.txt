@@ -1,0 +1,5 @@
+langchain-chroma
+langchain
+langchain-groq
+flashrank
+streamlit

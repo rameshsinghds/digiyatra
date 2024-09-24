@@ -45,6 +45,7 @@ httpx-sse==0.4.0
 huggingface-hub==0.24.3
 humanfriendly==10.0
 idna==3.7
+pysqlite3-binary
 importlib_metadata==8.0.0
 importlib_resources==6.4.0
 Jinja2==3.1.4
@@ -146,3 +147,4 @@ wrapt==1.16.0
 yarl==1.9.4
 zipp==3.19.2
 langchain-groq
+

@@ -3,4 +3,3 @@ langchain-chroma
 langchain-groq
 flashrank
 streamlit
-protoc >= 3.19.0
